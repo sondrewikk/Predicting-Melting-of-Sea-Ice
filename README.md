@@ -1,4 +1,4 @@
-# Predicting-Melting-of-Sea-Ice
+# Predicting-Melting-of-Sea-Ice by Sondre Wik 5870437
 
 I
 This project aims to predict Arctic sea ice melting using historical data and machine learning. The focus will be on building a model to forecast future ice loss, with an emphasis on good coding practices, documentation, and version control. Model accuracy is less critical than proper implementation.
